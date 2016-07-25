@@ -1,3 +1,9 @@
-# PokemonGO_Bot
-bot pokemongo
- 
+# Kordy
+35.67151302075597 , 139.69329714775085 Park pod Tokio, dużo pokemonów.
+
+34.04627236932315,-118.52408051490784 Czesty spawn Dragonite 
+
+34.02659260245828,-118.40596139431 "pokestopy co krok"
+
+45.47323812330944,9.175128936767578 park w mediolanie 
+
