@@ -1,27 +1,31 @@
 [Location]
-DefaultLatitude=34.02659260245828
-DefaultLongitude=-118.40596139431
+DefaultLatitude=40.7828687
+DefaultLongitude=-73.9675438
 DefaultAltitude=17
-WalkingSpeedInKilometerPerHour=20.0
+WalkingSpeedInKilometerPerHour=75.0
 MaxTravelDistanceInMeters=1000
 
 [General]
 LoadGoogleAccounts=TRUE
-LoadPTCAccounts=FALSE   
+LoadPTCAccounts=FALSE
 UseLuckyEggs=TRUE
+UseEggIncubators=TRUE
+RenamePokemons=TRUE
 
 [Evolve]
 AutoEvolve=TRUE
+EvolveAllPokemonAboveIV=TRUE
+EvolveAboveIVValue=90
 
 [Transfer]
 AutoTransfer=TRUE
 PrioritizeIVOverCP=FALSE
-KeepMinIVPercentage=90
-KeepMinCP=500
-KeepMinDuplicatePokemon=2
+KeepMinIVPercentage=80
+KeepMinCP=1000
+KeepMinDuplicatePokemon=1
 
 [Items]
 RecycleItems=TRUE
 
 [Delays]
-AfterCatchInSeconds=10  
+AfterCatchInSeconds=5
